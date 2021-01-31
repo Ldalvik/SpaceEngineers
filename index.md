@@ -2,7 +2,7 @@
 
 ## Automatic LCDs 2 by MMaster
 
-1.<a href="#initial">Initial Setup</a>
+1. <a href="#initial">Initial Setup</a>
 2. <a href="#assigning">Assigning an LCD</a>
 3. <a href="#linking">Linking LCD screens</a>
 4. <a href="#cockpits">Cockpit setup<a/>
